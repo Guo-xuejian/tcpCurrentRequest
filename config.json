@@ -7,7 +7,7 @@
 
   "comments": {
     "dial_address": "请求路由",
-    "write_string": "写入十六进制字符串",
+    "write_string": "写入信息，测试版为固定内容",
     "goroutine_num": "并发线程数量",
     "request_num_per_goroutine": "每个线程发送请求数量",
     "time_interval": "每个线程请求之间的间隔时间，单位毫秒 millisecond",
