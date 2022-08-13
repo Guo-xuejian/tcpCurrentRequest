@@ -1,0 +1,19 @@
+{
+  "dial_address": "127.0.0.1:8888",
+  "write_string": "tcp information",
+  "goroutine_num": 10,
+  "time_interval": 10,
+  "test_time": 10,
+
+  "comments": {
+    "dial_address": "请求路由",
+    "write_string": "写入十六进制字符串",
+    "goroutine_num": "并发线程数量",
+    "request_num_per_goroutine": "每个线程发送请求数量",
+    "time_interval": "每个线程请求之间的间隔时间，单位毫秒 millisecond",
+    "test_time": "测试时间，以分钟为单位"
+  },
+
+
+  "request_num_per_goroutine": 10
+}
